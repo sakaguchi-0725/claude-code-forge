@@ -1,0 +1,18 @@
+{
+  "name": "claude-code-forge",
+  "owner": {
+    "name": "sakaguchi-0725",
+    "url": "https://github.com/sakaguchi-0725"
+  },
+  "plugins": [
+    {
+      "name": "forge",
+      "source": "./",
+      "description": "everything-claude-code テンプレート準拠で skill/agent/rule を生成・リファクタするプラグイン",
+      "version": "0.1.0",
+      "license": "MIT",
+      "homepage": "https://github.com/sakaguchi-0725/claude-code-forge",
+      "repository": "https://github.com/sakaguchi-0725/claude-code-forge"
+    }
+  ]
+}

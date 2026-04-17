@@ -1,0 +1,6 @@
+{
+  "name": "forge",
+  "description": "everything-claude-code テンプレート準拠で skill/agent/rule を生成・リファクタするプラグイン",
+  "version": "0.1.0",
+  "author": { "name": "sakaguchi" }
+}
